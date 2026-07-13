@@ -26,4 +26,6 @@ let first,second, third; //this is the names as adjectives, shop name and anothe
 if (rand<0.33){
     first = "Crazy"
 }
-else if(rand<0.66 && rand>=0.33)
+else if(rand<0.66 && rand>=0.33){
+    first = "Amazing"
+}
