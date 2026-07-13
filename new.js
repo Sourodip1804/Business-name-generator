@@ -46,3 +46,15 @@ else if(rand<0.66 && rand>=0.33){
 else{
     first = "Fire"
 }
+
+// lets generate the second word 
+
+if (rand<0.33){
+    first = "Crazy"
+}
+else if(rand<0.66 && rand>=0.33){
+    first = "Amazing"
+}
+else{
+    first = "Fire"
+}
