@@ -23,3 +23,7 @@ let first,second, third; //this is the names as adjectives, shop name and anothe
 // this can be divided into three parts by 0,0.33,0.66 and 1
 // this program is done without the use of Array
 
+if (rand<0.33){
+    first = "Crazy"
+}
+
