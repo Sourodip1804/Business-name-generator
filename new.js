@@ -38,13 +38,13 @@ else{
 // lets generate the second word 
 
 if (rand<0.33){
-    second = "Crazy"
+    second = "Engine"
 }
 else if(rand<0.66 && rand>=0.33){
-    second = "Amazing"
+    second = "Foods"
 }
 else{
-    second = "Fire"
+    second = "Garments"
 }
 
 // lets generate the third word 
