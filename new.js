@@ -58,3 +58,5 @@ else if(rand<0.66 && rand>=0.33){
 else{
     third = "Hub"
 }
+
+console.log(`${first}`)
