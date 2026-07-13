@@ -33,6 +33,7 @@ else{
     first = "Fire"
 }
 
+// lets generate the second word 
 
 if (rand<0.33){
     first = "Crazy"
