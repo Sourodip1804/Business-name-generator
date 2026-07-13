@@ -50,7 +50,7 @@ else{
 // lets generate the third word 
 
 if (rand<0.33){
-    third = "Crazy"
+    third = "Bros"
 }
 else if(rand<0.66 && rand>=0.33){
     third = "Amazing"
