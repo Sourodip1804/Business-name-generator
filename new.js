@@ -38,7 +38,7 @@ else{
 // lets generate the second word 
 
 if (rand<0.33){
-    first = "Crazy"
+    second = "Crazy"
 }
 else if(rand<0.66 && rand>=0.33){
     first = "Amazing"
