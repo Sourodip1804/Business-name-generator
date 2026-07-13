@@ -29,3 +29,6 @@ if (rand<0.33){
 else if(rand<0.66 && rand>=0.33){
     first = "Amazing"
 }
+else{
+    first = "Fire"
+}
