@@ -41,10 +41,10 @@ if (rand<0.33){
     second = "Crazy"
 }
 else if(rand<0.66 && rand>=0.33){
-    first = "Amazing"
+    second = "Amazing"
 }
 else{
-    first = "Fire"
+    second = "Fire"
 }
 
 // lets generate the third word 
