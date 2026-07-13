@@ -56,5 +56,5 @@ else if(rand<0.66 && rand>=0.33){
     third = "Limited"
 }
 else{
-    third = "Fire"
+    third = "Hub"
 }
