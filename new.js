@@ -20,3 +20,5 @@ Hub
 
 let rand = Math.random()
 let first,second, third; //this is the names as adjectives, shop name and another word
+// this can be divided into three parts by 0,0.33,0.66 and 1
+
