@@ -47,7 +47,7 @@ else{
     first = "Fire"
 }
 
-// lets generate the second word 
+// lets generate the third word 
 
 if (rand<0.33){
     first = "Crazy"
