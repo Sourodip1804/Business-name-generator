@@ -51,7 +51,7 @@ else{
 
 // lets generate the third word 
 
-let rand = Math.random()
+rand = Math.random()
 if (rand<0.33){
     third = "Bros"
 }
