@@ -59,4 +59,4 @@ else{
     third = "Hub"
 }
 
-console.log(`${first}`)
+console.log(`${first} ${second}`)
