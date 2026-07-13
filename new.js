@@ -19,3 +19,4 @@ Hub
 */
 
 let rand = Math.random()
+let first,second, third; //this is the names as adjectives, shop name and another word
