@@ -38,7 +38,7 @@ else{
 // lets generate the second word 
 
 
-let rand = Math.random()
+rand = Math.random()
 if (rand<0.33){
     second = "Engine"
 }
