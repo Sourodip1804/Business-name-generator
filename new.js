@@ -16,6 +16,6 @@ Bros
 Limited
 Hub
 
-
-
 */
+
+let rand = Math.random()
